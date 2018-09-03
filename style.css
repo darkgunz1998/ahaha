@@ -293,7 +293,7 @@ img{
 #sign{
 
     background-color: #FFFFCC;
-    
+    margin: auto;
 }
 .terms:hover{
     color: aqua;
@@ -316,6 +316,10 @@ img{
 @media screen and (min-width: 481px) and (max-width: 949px) {
     .title-text{
         padding-top: 30px;
+    }
+    .icon-stick{
+        display: block;
+        margin: auto;
     }
 }
 @media screen and (min-width: 950px) {
