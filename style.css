@@ -294,6 +294,18 @@ img{
 .build:hover{
     color: cadetblue;
 }
+@media screen and (max-width: 480px){
+    .icon-stick{
+        display: block;
+        margin: auto;
+    }
+    #problem .got-it h1{
+        font-size: 100%;
+    }
+    #problem .got-it p{
+        font-size: 80%;
+    }
+}
 @media screen and (min-width: 481px) and (max-width: 949px) {
     .title-text{
         padding-top: 30px;
