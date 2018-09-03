@@ -166,6 +166,13 @@ img{
     background-color: burlywood;
     font-weight: bold;
 }
+.bts i{
+    color: white;
+}
+.bts i:hover{
+    color: aqua;
+}
+
 #alive{
     margin-top: 50px;
 }
